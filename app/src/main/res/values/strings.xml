@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">climbz</string>
+    <string name="action_sortG">Sort by grade</string>
+    <string name="action_sortD">Sort by date</string>
+    <string name="action_sortS">Sort by setter</string>
+    <string name="action_sortL">Sort by location</string>
+    <string name="action_website">BKBS Website</string>
+    <string name="action_add_route">Add a Route</string>
+    <string name="action_map">Facility Floorplan</string>
+    <string name="hello_world">testing file modification</string>
+    <string name="title_activity_single_route">Route Details</string>
+    <string name="title_activity_add_route">Add a route, yo.</string>
+    <string name="comment_text">Enter comment here.</string>
+    <string name="comment_butt">Save</string>
+    <string-array name="location_array">
+        <item>Slab</item>
+        <item>Scoop</item>
+        <item>Shield</item>
+        <item>Tip</item>
+        <item>Cave</item>
+        <item>Thirty</item>
+        <item>Flatwall</item>
+        <item>Upstairs Left</item>
+        <item>Upstairs Right</item>
+        <item>Big Shield</item>
+        <item>Ampitheater</item>
+        <item>Wave</item>
+        <item>Window</item>
+        <item>Outcast Island</item>
+        <item>Tongue Left</item>
+        <item>Tongue</item>
+        <item>Tongue Right</item>
+        <item>AutoBelay Island</item>
+    </string-array>
+    <string-array name="boulder_grade_array">
+        <item>V0</item>
+        <item>V1</item>
+        <item>V2</item>
+        <item>V3</item>
+        <item>V4</item>
+        <item>V5</item>
+        <item>V6</item>
+        <item>V7</item>
+        <item>V8</item>
+        <item>V9</item>
+        <item>V10</item>
+        <item>V11</item>
+        <item>V12</item>
+        <item>V13</item>
+    </string-array>
+    <string-array name="route_grade_array">
+        <item>5.5</item>
+        <item>5.6</item>
+        <item>5.7</item>
+        <item>5.8</item>
+        <item>5.9</item>
+        <item>5.10a</item>
+        <item>5.10b</item>
+        <item>5.10c</item>
+		<item>5.10d</item>
+		<item>5.11a</item>
+		<item>5.11b</item>
+		<item>5.11c</item>
+		<item>5.11d</item>
+		<item>5.12a</item>
+		<item>5.12b</item>
+		<item>5.12c</item>
+		<item>5.12d</item>
+		<item>5.13a</item>
+		<item>5.13b</item>
+		<item>5.13c</item>
+		<item>5.13d</item>
+		<item>5.14a</item>
+		<item>5.14b</item>
+    </string-array>
+    <string-array name="color_array">
+        <item>red</item>
+        <item>blue</item>
+        <item>green</item>
+        <item>purple</item>
+        <item>orange</item>
+        <item>black</item>
+        <item>yellow</item>
+        <item>pink?</item>
+    </string-array>
+    <string-array name="setter_array">
+        <item>BL</item>
+        <item>AK</item>
+        <item>NM</item>
+        <item>SY</item>
+        <item>CL</item>
+        <item>AL</item>
+        <item>PS</item>
+        <item>DL</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,41 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_add_route"
+        android:orderInCategory="2"
+        android:showAsAction="never"
+        android:title="@string/action_add_route"/>
+    
+    <item
+        android:id="@+id/action_website"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_website"/>
+
+    <item
+        android:id="@+id/action_map"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_map"/>
+    <item
+        android:id="@+id/action_sortD"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_sortD"/>
+    <item
+        android:id="@+id/action_sortS"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_sortS"/>
+    <item
+        android:id="@+id/action_sortL"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_sortL"/>
+    <item
+        android:id="@+id/action_sortG"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_sortG"/>
+
+</menu>
